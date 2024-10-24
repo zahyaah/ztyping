@@ -371,7 +371,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "C++",
+        language: "C++",
         examples: [
             {
                 name: "Quick Sort",
@@ -542,7 +542,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Go",
+        language: "Go",
         examples: [
             {
                 name: "Quick Sort",
@@ -700,7 +700,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Java",
+        language: "Java",
         examples: [
             {
                 name: "Quick Sort",
@@ -884,7 +884,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Javascript",
+        language: "JavaScript",
         examples: [
             {
                 name: "Quick Sort",
@@ -1031,7 +1031,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Kotlin",
+        language: "Kotlin",
         examples: [
             {
                 name: "Quick Sort",
@@ -1186,7 +1186,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "PHP",
+        language: "PHP",
         examples: [
             {
                 name: "Quick Sort",
@@ -1392,7 +1392,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Python",
+        language: "Python",
         examples: [
             {
                 name: "Quick Sort",
@@ -1550,7 +1550,7 @@ export const algorithms = [
         ]
     },
     {
-        name: "Swift",
+        language: "Swift",
         examples: [
             {
                 name: "Quick Sort",
